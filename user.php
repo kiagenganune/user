@@ -50,7 +50,7 @@ $msgveeu = "[!] Subscribe Free";
 $data= [
 //info
 //rf
-'Jijo',
+'Kermit Rastafara',
        ];
 $toto = ['tes',];
 $ydnews = ['tes','ting',];
